@@ -5,7 +5,7 @@ This is a Star Wars themed air quality sensor and interactive wall mounted box.
 
 This project was created using the Arduino IDE, and was designed for use with the Arduino Nano.
 
-"Why don't you have the schematic to the PCB," you might ask? Well, because I used this as a way to explore KiCAD, and I definitely somehow stumbled my way into creating the PCB without the schematic. Would not recommend, as it took way longer. But hey, I learned a lot, and at least it works.
+"Why don't you have the schematic to the PCB," you might ask? Well, because I used this as a way to explore KiCAD, and I definitely somehow stumbled my way into creating the PCB without the schematic. Would not recommend, as it took way longer. But hey, I learned a lot, and at least it works. I'll upload a full schematic at a later point.
 
 Components:
 
